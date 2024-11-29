@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="startOrange">#FFA132</color>
+    <color name="endOrange">#FFB156</color>
+    <color name="recyclerViewColor">#f4f4f4</color>
+    <color name="search">#5EFFA132</color>
+
+
+</resources>
